@@ -40,14 +40,6 @@ Question: What value is returned from the following statement?
 
 `"i'm a lasagna hog".split("").reverse().join("");`
 
-## 6 (Swift)
-
-What is the difference Non-Escaping and Escaping Closures ?
-
-## 7 (Swift)
-
-Explain [weak self] and [unowned self] ?
-
 ## 8 
 
 Write a function that draws a sine wave it should take in 
